@@ -166,4 +166,4 @@ ai-cost-guard/
 ## 👤 Autor
 
 **Thalison Bruno Reis dos Santos** — estudante de Ciência da Computação, foco em Engenharia de Dados
-[GitHub](https://github.com/thalisondev) · [LinkedIn](https://linkedin.com/in/thalison-dev)
+ · [LinkedIn](https://linkedin.com/in/thalison-dev)
